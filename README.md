@@ -109,21 +109,7 @@ Using this project you can easily discover:
 * Bowlers with the **best economy rates**
 * The **best all-rounders in IPL 2025**
 
----
 
-# 📷 Dashboard Preview
-
-Add screenshots of your dashboard here.
-
-Example:
-
-```
-(Image/Screenshot%202026-03-11%20180336.png)
-```
-
-Adding screenshots increases the **visual appeal of your GitHub project**.
-
----
 
 # 🎯 Learning Outcomes
 
