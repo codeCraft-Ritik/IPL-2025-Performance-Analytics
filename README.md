@@ -118,7 +118,7 @@ Add screenshots of your dashboard here.
 Example:
 
 ```
-Image/Screenshot 2026-03-11 180336.png
+(Image/Screenshot%202026-03-11%20180336.png)
 ```
 
 Adding screenshots increases the **visual appeal of your GitHub project**.
