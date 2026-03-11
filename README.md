@@ -118,7 +118,7 @@ Add screenshots of your dashboard here.
 Example:
 
 ```
-![Dashboard Screenshot](images/dashboard.png)
+
 ```
 
 Adding screenshots increases the **visual appeal of your GitHub project**.
